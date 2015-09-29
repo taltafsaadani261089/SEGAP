@@ -24,14 +24,7 @@ h1 { font-size: 24px; }
     float: left;
     width: 100%;
 }
-.templatemo-content {
-    margin-left: 235px;
-    margin-top: 0px;
-    min-height: 600px;
-    padding: 25px 20px 0 20px;
-    background-color: white;
-    overflow-x: hidden;
-}
+
 
 .margin-bottom-15 { margin-bottom: 15px; }
 .margin-bottom-30 { margin-bottom: 30px; }
